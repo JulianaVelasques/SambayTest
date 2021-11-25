@@ -1,0 +1,58 @@
+.container {
+  display: flex;
+  background: #04aac0;
+  height: 4.5em;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.blockContainer {
+  display: flex;
+}
+
+.imageContainer {
+  margin-left: 2em;
+}
+
+.inputContainer {
+  position: relative;
+  margin-left: 4rem;
+}
+
+.inputContainer > img {
+  position: absolute;
+}
+
+.inputContainer > input {
+  width: 18rem;
+  border-radius: 5px;
+  height: 1.7em;
+  border: none;
+  padding-left: 2em;
+}
+
+.inputContainer > input::placeholder {
+  color: rgb(141, 141, 141);
+}
+
+.iconsContainer {
+  margin-left: 8em;
+  margin-right: 2em;
+  align-self: center;
+}
+
+.iconsContainer > img {
+  margin-left: 5px;
+}
+
+.profileContainer {
+  display: flex;
+  align-items: center;
+  margin-right: 1em;
+}
+
+.profileContainer > img {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+}

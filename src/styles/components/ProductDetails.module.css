@@ -1,0 +1,103 @@
+.titleContainer {
+  display: flex;
+  justify-content: column;
+  align-items: baseline;
+  margin-left: 2em;
+  margin-bottom: 1em;
+}
+
+.titleContainer > h1 {
+  margin-left: 10px;
+}
+
+.container {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  flex-direction: column;
+}
+.content {
+  display: flex;
+  margin-right: 10em;
+  justify-content: flex-end;
+}
+
+.imageContainer {
+  justify-items: center;
+  background: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 2em;
+  margin-right: 2em;
+}
+
+.imageContainer > img {
+  width: 30em;
+  border-radius: 2em;
+}
+
+.blockContainer {
+  width: 25em;
+  margin: 1em;
+}
+
+.offerContainer {
+  height: 4em;
+  background: rgb(240, 236, 236);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  margin-bottom: 1.5em;
+}
+
+.tagContainer {
+  font-weight: 700;
+  font-size: 0.7em;
+  color: #2888f5;
+  margin-left: 5px;
+  padding-top: 1px;
+}
+
+.priceContainer {
+  display: flex;
+  width: 8em;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 2.5em;
+  margin-top: 3px;
+}
+
+.price {
+  font-weight: 700;
+  font-size: 1.2em;
+  color: #2888f5;
+}
+
+.installmentsContainer {
+  font-size: 0.7rem;
+  color: rgb(105, 97, 97);
+}
+
+.stripe {
+  width: 100%;
+  height: 0.75rem;
+  margin-top: 0.63em;
+  background: #2d8b16;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+h2 {
+  font-weight: 400;
+  color: #1aa7ec;
+}
+
+.descriptionContainer {
+  color: rgb(105, 97, 97);
+  margin-left: 10px;
+  text-align: justify;
+  margin-bottom: 1.5em;
+}
+
+.detailsContainer > ul > li {
+  font-size: 0.8rem;
+  color: rgb(105, 97, 97);
+}
