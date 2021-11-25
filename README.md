@@ -25,7 +25,7 @@
 <br>
 
  ## Demonstration
-  <div align='center'><img src="Demo.gif" alt="Demo"  /></div>
+  <div align='center'><img src="Demo.gif" alt="Demo"/></div>
     
     
 ## :computer: Live Preview
