@@ -24,10 +24,6 @@
 
 <br>
 
- ## Demonstration
-  <div align='center'><img src="Demo.gif" alt="Demo"/></div>
-    
-    
 ## :computer: Live Preview
 
 You can access this website demo version at the following link [Demo Version](sambay-test.vercel.app)
