@@ -40,8 +40,9 @@ This application was made to participate in the selection process for junior fro
 
 ## :wrench: Built With
 
-- [React](https://reactjs.org)
-- [CSS]()
+- [React.js](https://reactjs.org)
+- [Typescript](https://www.typescriptlang.org/)
+- [Node.js](https://nodejs.org/en/)
 
 ## 🤔 How to Contribute
 
