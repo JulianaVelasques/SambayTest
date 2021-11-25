@@ -3,14 +3,14 @@
 </h4>
 
 <p align="center">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JulianaVelasques/SambatTest">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JulianaVelasques/SambayTest">
   
   <a href="https://github.com/JulianaVelasques/moveit/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JulianaVelasques/SambatTest">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JulianaVelasques/SambayTest">
   </a>
 
   <a href="https://github.com/JulianaVelasques/SambatTest/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/JulianaVelasques/SambatTest">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/JulianaVelasques/SambayTest">
   </a>
 
 </p>
@@ -23,11 +23,14 @@
 </p>
 
 <br>
+
+ ## Demonstration
+  <div align='center'><img src="Demo.gif" alt="Demo"  /></div>
     
     
 ## :computer: Live Preview
 
-You can access this website demo version at the following link [Demo Version]()
+You can access this website demo version at the following link [Demo Version](Demo)
 
 ## :page_with_curl: About
 
@@ -40,7 +43,7 @@ This application was made to participate in the selection process for junior fro
 
 ## 🤔 How to Contribute
 
-- Clone the project: `git@github.com:JulianaVelasques/SambatTest`;
+- Clone the project: `git@github.com:JulianaVelasques/SambayTest`;
 - Create your branch with your feature: `git checkout -b my-feature`;
 - Commit your feature: `git commit -m 'feat: My new feature'`;
 - Push to your branch: `git push -u origin my-feature`.
