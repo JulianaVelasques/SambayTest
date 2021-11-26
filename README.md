@@ -32,7 +32,7 @@
 
 ## :computer: Live Preview
 
-You can access this website demo version at the following link [Demo Version](sambay-test.vercel.app)
+You can access this website demo version at the following link [Demo Version](https://sambay-test.vercel.app/)
 
 ## :page_with_curl: About
 
